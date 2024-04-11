@@ -3,7 +3,7 @@ The output listed out all the files and contents within the current directory, w
 ![Image](ls1.png)
 
 The absolute path to the working directory before the command was run was /Uers/vinsonguyen/Desktop
-The output listed out all the files and contents within the directory that the path pointed to, which was dsc30_wi24. There was no error.
+The output listed out all the files and contents within the directory that the path pointed to, which was dsc30_wi24, instead of the current working directory. There was no error.
 ![Image](ls2.png)
 
 The absolute path to the working directory before the command was run was /Users/vinsonguyen/Desktop
