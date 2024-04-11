@@ -1,3 +1,6 @@
+Lab Report 1
+========
+
 The absolute path to the working directory before the command was run was /Users/vinsonguyen/Desktop
 The output listed out all the files and contents within the current directory, which was Desktop. There was no error.
 
